@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+sqlalchemy
+passlib
+bcrypt
+python-jose
+transformers
+packaging==21.3
+torch
+python-multipart
+pymysql
